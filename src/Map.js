@@ -3,7 +3,7 @@ import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 
 class Map extends Component {
   state = {
-    currentLocation: { lat: null, lng: null }
+    currentLocation: { lat: 18.62147141214891, lng: 73.75959576534039 }
   }
 
   componentDidMount() {
